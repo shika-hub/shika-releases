@@ -4,21 +4,28 @@ The official source of the latest versions.
 # Support
 The answer to any question can be found in [Discord Community](https://discord.gg/shika).
 
-# Functions
-## Player
+# Features
+#### Player
 * God Mode
 * Infinite Energy
 * Infinite Stamina
+* Infinite Wanderer Stamina
+* Infinite Phlogiston
+* Infinite Nightsoul
 * Multi Hit
 * No Clip
 * No Skill Cooldown
+* No Avatar Change Cooldown
+* No Avatar Combat
+* No Hide Weapon
 * Instant Bow Charge
 * No Sprint Cooldown
 * No Vehicle Skill Cooldown
 * Player Speed
-## World
+#### World
 * Auto Destroy
 * Auto Loot
+* Auto Seelie
 * Auto Talk
 * Skip Cutscene
 * Dumb Enemies
@@ -30,11 +37,13 @@ The answer to any question can be found in [Discord Community](https://discord.g
 * Mob Vacuum
 * Music Game
 * Open Team Immediately
-## Teleport
+#### Teleport
+* Chest Teleport
 * Map Teleport
+* Oculi Teleport
 * Quest Teleport
-## ESP
-## Visuals
+#### ESP
+#### Visuals
 * Camera Zoom
 * No Censorship
 * Fov Changer
@@ -50,7 +59,7 @@ The answer to any question can be found in [Discord Community](https://discord.g
 * Profile Changer
 * Show Indicators
 * Unlock FPS
-## Lua
-## Misc
+#### Lua
+#### Misc
 * Instant Exit
 * Gacha Url Fetcher
