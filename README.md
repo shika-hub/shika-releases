@@ -12,6 +12,7 @@ The answer to any question can be found in [Discord Community](https://discord.g
 * Infinite Wanderer Stamina
 * Infinite Phlogiston
 * Infinite Nightsoul
+* Infinite Mavuika Stamina
 * Multi Hit
 * No Clip
 * No Skill Cooldown
@@ -23,6 +24,7 @@ The answer to any question can be found in [Discord Community](https://discord.g
 * No Vehicle Skill Cooldown
 * Player Speed
 #### World
+* Auto Challenge
 * Auto Destroy
 * Auto Loot
 * Auto Seelie
