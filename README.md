@@ -13,7 +13,6 @@ The answer to any question can be found in [Discord Community](https://discord.g
 * Infinite Phlogiston
 * Infinite Nightsoul
 * Infinite Mavuika Stamina
-* Multi Hit
 * No Clip
 * No Skill Cooldown
 * No Avatar Change Cooldown
@@ -22,7 +21,6 @@ The answer to any question can be found in [Discord Community](https://discord.g
 * Instant Bow Charge
 * No Sprint Cooldown
 * No Vehicle Skill Cooldown
-* Player Speed
 #### World
 * Auto Challenge
 * Auto Destroy
@@ -35,7 +33,6 @@ The answer to any question can be found in [Discord Community](https://discord.g
 * Fake Time
 * Fast Combine
 * Freeze Enemies
-* Game Speed
 * Mob Vacuum
 * Music Game
 * Open Team Immediately
@@ -59,7 +56,6 @@ The answer to any question can be found in [Discord Community](https://discord.g
 * No Map Fog
 * Paimon Follow
 * Profile Changer
-* Show Indicators
 * Unlock FPS
 #### Lua
 #### Misc
