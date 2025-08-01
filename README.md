@@ -13,6 +13,7 @@ The answer to any question can be found in [Discord Community](https://discord.g
 * Infinite Phlogiston
 * Infinite Nightsoul
 * Infinite Mavuika Stamina
+* Multi Hit
 * No Clip
 * No Skill Cooldown
 * No Avatar Change Cooldown
@@ -21,6 +22,7 @@ The answer to any question can be found in [Discord Community](https://discord.g
 * Instant Bow Charge
 * No Sprint Cooldown
 * No Vehicle Skill Cooldown
+* Player Speed
 #### World
 * Auto Challenge
 * Auto Destroy
