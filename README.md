@@ -17,8 +17,7 @@ The answer to any question can be found in [Discord Community](https://discord.g
 * Auto Destroy
 * Auto Loot
 * Auto Seelie
-* Auto Talk
-* Skip Cutscene
+* Auto Talk (Skip Movie Cutscene, Fast Game Cutscene, Skip Tutorials, Skip Newbie Hints)
 * Dumb Enemies
 * Permanent Elemental Sight
 * Fake Time
@@ -27,6 +26,7 @@ The answer to any question can be found in [Discord Community](https://discord.g
 * Mob Vacuum
 * Music Game
 * Open Team Immediately
+* Spawn Object
 #### Teleport
 * Chest Teleport
 * Map Teleport
@@ -36,12 +36,15 @@ The answer to any question can be found in [Discord Community](https://discord.g
 #### Visuals
 * Camera Zoom
 * No Censorship
+* Custom Weather
 * Fov Changer
 * GM Icon
 * Graphics Changer
 * Hide Damage
 * Hide Reaction
 * Hide UI
+* Map Zoom
+* No Burst Animation
 * No Fog
 * No Grass
 * No Map Fog
